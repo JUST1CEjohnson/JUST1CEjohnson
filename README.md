@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @JUST1CEjohnson
-- 👀 I’m interested in codes
-- 🌱 I’m currently learning codes
-- 💞️ I’m looking to collaborate on codes
-- 📫 How to reach me - maybe later
+Hi, I’m @JUST1CEjohnson.
 
 <!---
 JUST1CEjohnson/JUST1CEjohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
